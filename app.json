@@ -1,5 +1,5 @@
 {
-    "name": "JISSHU-BOT",
+    "name": " Thalapathybot📛",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Jisshubot/JISSHU-BOT",
-    "repository": "https://github.com/Jisshubot/JISSHU-BOT",
+    "website": "https://github.com/AJBotsss/Thalapathybot",
+    "repository": "https://github.com/AJBotsss/Thalapathybot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
